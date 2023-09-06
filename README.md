@@ -6,7 +6,7 @@
 
 #### Skills: 
 
-• Databases:  MS SQL Server, MySQL, Google BigQuery
+• Databases:  MySQL Server, MySQL, Google BigQuery
 
 • Programming: Python, R, Apache Spark, PySpark, html, html5, css, css3, javascript, c++
 
